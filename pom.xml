@@ -9,7 +9,7 @@
     <name>task_13</name>
 
     <properties>
-        <spring.version>5.2.6.RELEASE</spring.version>
+        <spring.version>5.3.19</spring.version>
         <jackson.version>2.2.1</jackson.version>
     </properties>
 
